@@ -70,10 +70,10 @@
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3IZ-cI-ddk" userLabel="Bottom Container">
-                                <rect key="frame" x="0.0" y="498" width="414" height="364"/>
+                                <rect key="frame" x="0.0" y="498" width="414" height="398"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aA5-KN-yIW">
-                                        <rect key="frame" x="141.66666666666666" y="156" width="130.99999999999997" height="52"/>
+                                        <rect key="frame" x="141.66666666666666" y="173" width="130.99999999999997" height="52"/>
                                         <color key="backgroundColor" red="0.78738981490000004" green="0.2464441359" blue="0.27221894260000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="52" id="cVc-yt-lvt"/>
@@ -116,7 +116,7 @@
                             <constraint firstItem="MsS-nC-1Bg" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" id="XCv-dh-atl"/>
                             <constraint firstAttribute="trailing" secondItem="cFV-gP-UIX" secondAttribute="trailing" id="aTV-xA-f7w"/>
                             <constraint firstItem="K0W-NI-xky" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="fkG-Da-Opr"/>
-                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="3IZ-cI-ddk" secondAttribute="bottom" id="teg-Ok-TiO"/>
+                            <constraint firstAttribute="bottom" secondItem="3IZ-cI-ddk" secondAttribute="bottom" id="teg-Ok-TiO"/>
                         </constraints>
                     </view>
                     <connections>
