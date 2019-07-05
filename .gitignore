@@ -22,3 +22,5 @@ DerivedData/
 *.xcscmblueprint
 
 .DS_Store
+
+GoogleService-Info.plist
